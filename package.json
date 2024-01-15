@@ -1,5 +1,5 @@
 {
-  "name": "myflix-client",
+  "name": "myflix-frontend",
   "version": "1.0.0",
   "description": "Frontend of myFlix App",
   "main": "index.js",
